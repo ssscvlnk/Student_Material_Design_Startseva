@@ -102,6 +102,7 @@ fun Student_Material_Design_StartsevaTheme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
+        shapes = Shapes,
         content = content
     )
 }
